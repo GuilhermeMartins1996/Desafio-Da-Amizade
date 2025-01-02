@@ -3,7 +3,7 @@
    alert("Descobrindo o nivel de amizade");
    let nome = prompt("Digite seu nome");
   
-   if(nome=='Vinicius Fonseca')
+   if(nome=='Vinicius F')
    {
       alert("Você é um amigo");
       console.log("Esse é o cara");
