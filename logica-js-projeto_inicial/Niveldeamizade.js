@@ -8,12 +8,12 @@
       alert("Você é um amigo");
       console.log("Esse é o cara");
    }
-   else if (nome=='Lucas Tortelli')
+   else if (nome=='Lucas T')
    {
       alert("Você é um amigo");
       console.log("Esse é magnata");
    }
-   else if (nome=='Lucas Pinheiro')
+   else if (nome=='Lucas P')
    {
       alert("Você é um amigo");
       console.log("Esse é o mestre");
